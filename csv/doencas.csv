@@ -1,12 +1,10 @@
-id,nome,image,descricao,slug,id_vacina_id
-2,Tétano,"","O tétano  é uma doença infecciosa, não contagiosa, com elevada letalidade para jovens e idosos. Sua principal característica é causar espasmos dolorosos, rigidez dos músculos e distúrbios neurológicos. É causada pela neurotoxina tetanospasmina que é produzida pela bactéria gram-positiva e anaeróbica Clostridium tetani.1 É transmitida por objetos contaminados como pedaços de telha e pregos, presentes no solo, que podem causar ferimentos profundos.",tetano,28
-1,Difteria,"","A difteria é uma doença infectocontagiosa causada pela toxina do bacilo Corynebacterium diphtheriae, que provoca inflamação e lesão em partes das vias respiratórias (amígdalas, faringe, laringe, traqueia, brônquios, nariz) e, às vezes, da pele.1 A mortalidade total é de 5-10%, subindo para 20% em crianças pequenas e adultos com mais de 40.2
+id,nome,image,descricao,slug
+1,Tétano,"","O tétano  é uma doença infecciosa, não contagiosa, com elevada letalidade para jovens e idosos. Sua principal característica é causar espasmos dolorosos, rigidez dos músculos e distúrbios neurológicos. É causada pela neurotoxina tetanospasmina que é produzida pela bactéria gram-positiva e anaeróbica Clostridium tetani.1 É transmitida por objetos contaminados como pedaços de telha e pregos, presentes no solo, que podem causar ferimentos profundos.",tetano
+2,Difeteria,"","A difteria é uma doença infectocontagiosa causada pela toxina do bacilo Corynebacterium diphtheriae, que provoca inflamação e lesão em partes das vias respiratórias (amígdalas, faringe, laringe, traqueia, brônquios, nariz) e, às vezes, da pele.1 A mortalidade total é de 5-10%, subindo para 20% em crianças pequenas e adultos com mais de 40.2
 
 
-",difeteria,28
-5,Febre Amarela,"","O que é?
-
-A febre amarela é uma doença infecciosa aguda, de curta duração (no máximo 10 dias), gravidade variável, causada pelo vírus da febre amarela, que ocorre na América do Sul e na África.
+",difeteria
+3,Febre Amarela,"","A febre amarela é uma doença infecciosa aguda, de curta duração (no máximo 10 dias), gravidade variável, causada pelo vírus da febre amarela, que ocorre na América do Sul e na África.
 
 Qual o microrganismo envolvido?
 
@@ -28,169 +26,42 @@ Como se prevenir?
 
 A única forma de evitar a febre amarela silvestre é a vacinação contra a doença. A vacina é gratuita e está disponível nos postos de saúde em qualquer época do ano. Ela deve ser aplicada 10 dias antes da viagem para as áreas de risco de transmissão da doença. Pode ser aplicada a partir dos 9 meses e é válida por 10 anos. A vacina é contra-indicada a gestantes, imunodeprimidos (pessoas com o sistema imunológico debilitado) e pessoas alérgicas a gema de ovo.
 
-A vacinação é indicada para todas as pessoas que vivem em áreas de risco para a doença (zona rural da Região Norte, Centro Oeste, estado do Maranhão, parte dos estados do Piauí, Bahia, Minas Gerais, São Paulo, Paraná, Santa Catarina e Rio Grande do Sul), onde há casos da doença em humanos ou circulação do vírus entre animais (macacos).",febre-amarela,16
-6,Hepatite B,"","A hepatite B é uma doença transmitida pelo vírus VHB, que tem predileção por infectar os hepatócitos, as células do fígado. Essas células podem ser agredidas pelo VHB diretamente, ou pelas células do sistema de defesa que, empenhadas em combater a infecção, acabam causando um processo inflamatório crônico.
+A vacinação é indicada para todas as pessoas que vivem em áreas de risco para a doença (zona rural da Região Norte, Centro Oeste, estado do Maranhão, parte dos estados do Piauí, Bahia, Minas Gerais, São Paulo, Paraná, Santa Catarina e Rio Grande do Sul), onde há casos da doença em humanos ou circulação do vírus entre animais (macacos).",febre-amarela
+4,Hepatite B,"","A hepatite B é uma doença transmitida pelo vírus VHB, que tem predileção por infectar os hepatócitos, as células do fígado. Essas células podem ser agredidas pelo VHB diretamente, ou pelas células do sistema de defesa que, empenhadas em combater a infecção, acabam causando um processo inflamatório crônico.
 
 O vírus da hepatite B pode sobreviver ativo no ambiente externo por vários dias. O período de incubação dura, em média, de um a quatro meses. Uma pessoa infectada por ele pode desenvolver as seguintes formas da doença: hepatite aguda, hepatite crônica (ou ambas) e hepatite fulminante, uma forma rara da doença que pode ser fatal.
-
-Transmissão do VHB
-
-O vírus da hepatite B está presente no sangue, na saliva, no sêmen e nas secreções vaginais da pessoa infectada. A transmissão pode ocorrer por via perinatal, isto é, da mãe para o feto na gravidez, durante e após o parto; por via horizontal, através de pequenos ferimentos na pele e nas mucosas; pelo uso de drogas injetáveis e por transfusões de sangue (risco que praticamente desapareceu desde que o sangue dos doadores passou a ser rotineiramente analisado).
-As relações sexuais constituem outra via importante de transmissão da hepatite B, considerada uma doença sexualmente transmissível (DST), porque o vírus atinge concentrações altas nas secreções sexuais.
-
-Diagnóstico
-
-O diagnóstico é feito com base nos exames físico e de sangue para determinar o valor das transaminases (aminotransferases, segundo a nova nomenclatura médica), e a presença de antígenos do vírus na detecção do DNA viral. Em alguns casos, pode ser necessário realizar biópsia de fígado.
-
-Sintomas
-
-De modo geral, os principais sintomas da infecção aguda pelo vírus VHB são semelhantes aos da hepatite A: náuseas, vômitos, mal-estar, febre, fadiga, perda de apetite, dores abdominais, urina escura, fezes claras, icterícia (cor amarelada na pele e conjuntivas).
-
-A hepatite aguda pode passar despercebida, porque a doença ou é assintomática, ou os sintomas não chamam a atenção. Outra particularidade é que a maioria dos pacientes elimina o vírus e evolui para a cura definitiva. Em menos de 5% dos casos, porém, o VHB persiste no organismo e a doença torna-se crônica.
-
-A hepatite B crônica também pode evoluir sem apresentar sintomas que chamem a atenção durante muitos anos. Isso não indica que parte dos infectados possa desenvolver cirrose hepática e câncer de fígado no futuro.  Na maioria das vezes, porém, quando os pacientes procuram o médico, já há sinais de insuficiência hepática crônica: icterícia, aumento do baço, acúmulo de líquido na cavidade abdominal (ascite), distúrbios de atenção e de comportamento (encefalopatia hepática). A evolução dessa forma da doença depende de fatores, como a replicação do vírus, a resposta imunológica, o consumo de álcool e a eventual infecção por outros vírus.
-
-Prevenção
-
-A maneira mais segura e eficaz de prevenir a infecção pelo VHB é tomar as três doses da vacina contra a hepatite B, assim distribuídas: a segunda 30 dias depois da primeira e a terceira, seis meses depois da primeira.
-
-Devem receber essa vacina: recém-nascidos, crianças que não foram vacinadas ao nascer, pessoas com vida sexual ativa, aquelas que convivem com pacientes com a enfermidade ou necessitam de transfusões de sangue com frequencia, as submetidas à hemodiálise. Também devem ser vacinados os usuários de drogas injetáveis, os profissionais na área de saúde, os doadores de órgãos sólidos e de medula óssea, policiais, manicures, podólogos, portadores de HIV e de imunodeficiências, vítimas de abuso sexual, a população indígena, entre outros grupos.
-
-Tratamento
-
-Na maioria dos casos, o tratamento da hepatite B aguda tem como objetivo aliviar os sintomas e afastar o risco de complicações. Nessa fase, não há consenso sobre a indicação de medicamentos antivirais. Também, ao contrário do que se preconizava no passado, o paciente não precisa permanecer em repouso, mas deve moderar a atividade física.
-
-Nem todos os portadores de hepatite B crônica com diagnóstico recente precisam de tratamento imediato. Quando ele se faz necessário, existem remédios que inibem a replicação do vírus e atuam no controle da resposta inflamatória.",hepatite-b,2
-7,H1N1,"","Influenza é uma doença transmitida através do vírus influenza e provoca febre, dores de garganta e outros sintomas.
-
-A maioria da população já deve ter contraído algum tipo de influenza e, uma vez infectado, eleva sua capacidade de resistência (imunidade) contra este vírus. Consequentemente, grande parte das pessoas já possui imunização contra a epidemia da influenza sazonal.
-
-A nova influenza A (H1N1), mais conhecida como gripe suína, que se propagou na primavera de 2009, é uma gripe sem precedentes e provocada por um novo tipo de vírus, ou seja a população não tem nenhuma imunidade contra ela. ",h1n1,34
-8,Meningite,"","A meningite é um processo inflamatório das meninges, que são membranas que envolvem o cérebro. É uma doença infecciosa aguda que pode ser causada por vírus, bactérias, e fungos. Qualquer pessoa pode ser atingida pela meningite, desde bebês e crianças até adolescentes e adultos.
- 
-A maioria das meningites BACTERIANAS (causadas por bactérias) se destaca por seu potencial de gravidade, e também por ser passível de prevenção por meio de vacina. O Hemofilo e Pneumococo figuravam entre as bactérias causadoras de meningite, como as mais patogênicas. Após a introdução de vacinas contra estas bactérias houve uma redução significativa da incidência deste tipo de meningite. Isto fez com que outra bactéria, o MENINGOCOCO, menos freqüente, mas igualmente grave, viesse a ocupar o foco das discussões sobre prevenção deste tipo de doença. 
-TRANSMISSÃO
-
-A meningite meningocócica é transmitida pelo contato direto, de pessoa para pessoa por meio de secreções respiratórias (tosse, espirro de alguém infectado). Algumas pessoas podem apresentar o meningococo na nasofaringe. Estas pessoas são chamadas de portadores sãos. Como os portadores não estão doentes, eles convivem na comunidade normalmente. Isto explica porque em casos de surtos de doença meningocócica, mesmo com o pronto isolamento dos doentes e tratamento dos contactantes, ainda assim os casos se multiplicam. São os portadores sãos que garantem a transmissão da doença para pessoas suscetíveis.
-A transmissão ocorre com maior facilidade em ambientes fechados e com aglomeração de pessoas.
-
-SINTOMAS
-
-O que torna esta doença alarmante é a rapidez com que o quadro pode se agravar. A evolução pode ser fatal em 24-48 horas. É fundamental a rapidez na percepcao dos sintomas por parte do doente e/ou familia, e precisão no diagnóstico pela equipe de assistência.
-
-TRATAMENTO
-
-Uma vez adquirida a doença o tratamento recomendado é baseado no uso de antibióticos. Geralmente o tratamento com antibióticos é eficaz, mas com o fenômeno da resistência bacteriana aos antibióticos comuns, agrava-se o problema, levando a internação e prolongamento do tratamento. Há que se considerar a necessidade de um diagnostico rápido e preciso, para que o tratamento iniciado precocemente tenha mais chance de ser eficaz, evitando-se assim as complicações.
-
- 
-PREVENÇÃO
-
-Medidas gerais – comuns a todas as doenças causadas por germes:
-
-    Lavar as mãos freqüentemente com água e sabão ou usar produtos de limpeza nas mãos a base de álcool pode ajudar a disseminação de muitos vírus e bactérias.
-    Não compartilhar alimentos, bebidas, pratos, copos e talheres são estratégias que também ajudam a interromper a transmissão dos germes.
-
-
-",meningite,7
-9,Pneumonia,"","Pneumonia é uma infecção que se instala nos pulmões (órgão duplo localizado um de cada lado da caixa torácica). Pode acometer a região dos alvéolos pulmonares onde desembocam as ramificações terminais dos brônquios e, às vezes, os interstícios (espaço entre um alvéolo e outro). 
-",pneumonia,6
-10,Poliomielite ou Paralisia Infántil ,"","A poliomielite, também chamada de pólio ou paralisia infantil, é uma doença infecciosa viral aguda transmitida de pessoa a pessoa, principalmente pela via fecal-oral.1  Referindo-se à substância cinzenta da medula espinhal, e o sufixo -itis, que denota inflamação,2 ou seja, inflamação da substância cinzenta da medula espinhal. Contudo, algumas infecções mais graves podem se estender até o tronco encefálico e ainda para estruturas superiores, resultando em polioencefalite, que provoca apneia, a qual requer ventilação mecânica com o uso de um respirador artificial.
-
-",poliomielite-ou-paralisia-infantil,20
-11,Sarampo ,"","O sarampo é uma doença infecto-contagiosa provocada pelo Morbili vírus e transmitida por secreções das vias respiratórias como gotículas eliminadas pelo espirro ou pela tosse. O período de incubação, ou seja, o tempo entre o contágio e o aparecimento dos sintomas, é de cerca de 12 dias e a transmissão pode ocorrer antes do aparecimento dos sintomas e estender-se até o quarto dia depois que surgiram placas avermelhadas na pele.
-
-O sarampo é uma doença potencialmente grave. Em gestantes, pode provocar aborto ou parto prematuro.
-
-Sintomas
+",hepatite-b
+5,Pneumococos,"","O Streptococcus pneumoniae, ou pneumococo, é uma bactéria que causa várias doenças, algumas simples, como otite e sinusite, e outras graves, como pneumonia, meningite e septicemia. Existem mais de 90 tipos diferentes de pneumococos. Essa bactéria pode estar presente na mucosa nasal e na garganta dos indivíduos saudáveis. Porém, por motivo desconhecido, pode invadir o organismo, causando infecções graves.",pneumococos
+7,Pneumonia,"","Pneumonia é uma infecção que se instala nos pulmões (órgão duplo localizado um de cada lado da caixa torácica). Pode acometer a região dos alvéolos pulmonares onde desembocam as ramificações terminais dos brônquios e, às vezes, os interstícios (espaço entre um alvéolo e outro). 
+",pneumonia
+8,Poliomielite ou Paralisia Infántil,"","A poliomielite, também chamada de pólio ou paralisia infantil, é uma doença infecciosa viral aguda transmitida de pessoa a pessoa, principalmente pela via fecal-oral.1  Referindo-se à substância cinzenta da medula espinhal, e o sufixo -itis, que denota inflamação,2 ou seja, inflamação da substância cinzenta da medula espinhal. Contudo, algumas infecções mais graves podem se estender até o tronco encefálico e ainda para estruturas superiores, resultando em polioencefalite, que provoca apneia, a qual requer ventilação mecânica com o uso de um respirador artificial.",poliomielite-ou-paralisia-infantil
+9,Sarampo,"","O sarampo é uma doença infecto-contagiosa provocada pelo Morbili vírus e transmitida por secreções das vias respiratórias como gotículas eliminadas pelo espirro ou pela tosse. O período de incubação, ou seja, o tempo entre o contágio e o aparecimento dos sintomas, é de cerca de 12 dias e a transmissão pode ocorrer antes do aparecimento dos sintomas e estender-se até o quarto dia depois que surgiram placas avermelhadas na pele.
 
 Além das manchas avermelhadas na pele (exantema maculopapular eritematoso), que começam no rosto e progridem em direção aos pés, podemos citar os seguintes sintomas: febre, tosse, mal-estar, conjuntivite, coriza, perda do apetite e manchas brancas na parte interna das bochechas (exantema de Koplik).
-
-Otite, pneumonia, encefalite são complicações graves do sarampo.
-
-Diagnóstico
-
-É feito através de exames clínicos e, quando necessário, confirmado por exame de sangue.
-
-Tratamento
-
-Por ser uma doença autolimitada, o tratamento é sintomático, isto é, visa ao alívio dos sintomas. Paciente com sarampo deve fazer repouso, ingerir bastante líquido, comer alimentos leves, limpar os olhos com água morna e tomar antitérmicos para baixar a febre. Em alguns casos, há necessidade de tratamento para o aumento de imunidade.
-
-Vacina
-
-A vacina anti-sarampo é eficaz em cerca de 97% dos casos. Deve ser aplicada em duas doses a partir do nono mês de vida da criança. Exceção feita às mulheres grávidas e aos indivíduos imunodeprimidos, adultos que não foram vacinados e não tiveram a doença na infância também devem tomar a vacina.",sarampo,22
-12,Caxumba,"","Caxumba é uma doença infecciosa causada por um vírus da família dos paramyxovirus, que provoca não só inflamação nas parótidas, mas também nas glândulas submaxilares e sublinguais.
+",sarampo
+10,Caxumba,"","Caxumba é uma doença infecciosa causada por um vírus da família dos paramyxovirus, que provoca não só inflamação nas parótidas, mas também nas glândulas submaxilares e sublinguais.
 
 Na maior parte das vezes, a infecção se manifesta na infância, nos meses de inverno e no começo da primavera.
 
 Embora seja uma enfermidade de evolução benigna, em alguns casos podem ocorrer as seguintes complicações: inflamação dos testículos e dos ovários (que pode resultar em esterilidade), meningite asséptica, pancreatite, neurite e surdez.
 
-O período de incubação varia de 14 a 25 dias. A transmissão se dá pelo contato direto com as secreções das vias aéreas superiores da pessoa infectada, a partir de dois dias antes até nove dias depois do aparecimento dos sintomas.
-
-Raros são os casos de reinfecção pelo vírus da caxumba. Em geral, uma vez infectada, a pessoa adquire imunidade contra a doença. No entanto, se a infecção se manifestou apenas de um lado, o outro pode ser afetado em outra ocasião.",cachumiba,22
-13,Rubéola,"","Rubéola é uma doença infecto-contagiosa causada pelo Togavírus. Sua característica mais marcante são as manchas vermelhas que aparecem primeiro na face e atrás da orelha e depois se espalham pelo corpo inteiro. O contágio ocorre comumente pelas vias respiratórias com a aspiração de gotículas de saliva ou secreção nasal.
+O período de incubação varia de 14 a 25 dias. A transmissão se dá pelo contato direto com as secreções das vias aéreas superiores da pessoa infectada, a partir de dois dias antes até nove dias depois do aparecimento dos sintomas.",caxumba
+11,Rubéola,"","Rubéola é uma doença infecto-contagiosa causada pelo Togavírus. Sua característica mais marcante são as manchas vermelhas que aparecem primeiro na face e atrás da orelha e depois se espalham pelo corpo inteiro. O contágio ocorre comumente pelas vias respiratórias com a aspiração de gotículas de saliva ou secreção nasal.
 
 A rubéola congênita, ou seja, transmitida da mãe para o feto, é a forma mais grave da doença, porque pode provocar malformações como surdez e problemas visuais na criança.
-
-Sintomas
-
-O período de incubação do vírus é de cerca de 15 dias e os sintomas são parecidos com os da gripe:
-
-* Dor de cabeça;
-
-* Dor ao engolir;
-
-* Dores no corpo (articulações e músculos);
-
-* Coriza;
-
-* Aparecimento de gânglios (ínguas);
-
-* Febre;
-
-* Exantemas (manchas avermelhadas) inicialmente no rosto que depois se espalham pelo corpo todo.
-
-Diagnóstico
-
-Por causa de sua semelhança com várias outras enfermidades, o diagnóstico preciso de rubéola só pode ser obtido pelo exame sorológico.
-
-Tratamento e Prevenção
-
-O tratamento é sintomático. Antitérmicos e analgésicos ajudam a diminuir o desconforto, aliviar as dores de cabeça e do corpo e baixar a febre. Recomenda-se também que o paciente faça repouso durante o período crítico da doença.
-
-Criança que nasce com rubéola pode transmitir o vírus por até um ano. Por isso, devem ser mantidas afastadas de outras crianças e de gestantes.
-
-Vacina
-
-A vacina contra a rubéola é eficiente em quase 100% dos casos e deve ser administrada em crianças aos 15 meses de vida. Mulheres que não tiveram a doença devem ser vacinadas antes de engravidar.",rubeola,22
-14,Gastroenterite,"","A gastroenterite é uma inflamação aguda que compromete os órgãos do sistema gastrointestinal. O problema é mais comum no verão e em locais sem tratamento de água, rede de esgoto, água encanada e destino adequado. ",gastroenterite,5
+",rubeola
+12,Influenza,"","Influenza, comumente conhecida como gripe, é uma doença viral febril, aguda, geralmente benigna e autolimitada. Frequentemente é caracterizada por início abrupto dos sintomas, que são predominantemente sistêmicos, incluindo febre, calafrios, tremores, dor de cabeça, mialgia e anorexia, assim como sintomas respiratórios com tosse seca, dor de garganta e coriza. A infecção geralmente dura 1 semana e com os sintomas sistêmicos persistindo por alguns dias, sendo a febre o mais importante.",influenza
+13,Coqueluche,"","Coqueluche é uma doença respiratória altamente contagiosa. É geralmente marcada por uma tosse severa e seca, seguida por uma ingestão aguda de ar que soa como ""grito”. ",coqueluche
+14,Gastroenterite,"","A gastroenterite é uma inflamação aguda que compromete os órgãos do sistema gastrointestinal. O problema é mais comum no verão e em locais sem tratamento de água, rede de esgoto, água encanada e destino adequado. ",gastroenterite
 15,Tuberculose,"","A tuberculose, transmitida pelo Mycobacterium tuberculosis, o bacilo de Koch, é provavelmente a doença infecto-contagiosa que mais mortes ocasiona no Brasil. Estima-se, ainda, que mais ou menos 30% da população mundial estejam infectados, embora nem todos venham a desenvolver a doença.
 
 Na verdade, as pessoas se comportam como reservatórios do bacilo, ou seja, convivem com ele porque não conseguem eliminá-lo ou destruí-lo e, uma vez reativado o foco, passarão a ser infectantes.
 
 A primoinfecção ocorre quando a pessoa entra em contato com o bacilo pela primeira vez. Proximidade com pessoas infectadas, assim como os ambientes fechados e pouco ventilados favorecem o contágio.
 
-O bacilo de Koch é transmitido nas gotículas eliminadas pela respiração, por espirros e pela tosse. Para que a primoinfecção ocorra, é necessário que ele chegue aos alvéolos. Se não alcançar os pulmões, nada acontece. A partir dos alvéolos, porém, pode invadir a corrente linfática e alcançar os gânglios (linfonodos), órgãos de defesa do organismo.
-
-A doença evolui quando a pessoa não consegue bloquear o bacilo que se divide, rompe a célula em que está fagocitado e provoca uma reação inflamatória muito intensa em vários tecidos a sua volta. O pulmão reage a essa inflamação produzindo muco e surge tosse produtiva.
-
-Como o bacilo destrói a estrutura alveolar, formam-se cavernas no tecido pulmonar e vasos sanguíneos podem romper-se. Por isso, na tuberculose pulmonar, é frequente a presença de tosse com eliminação de catarro, muco e sangue.
-
 Além dos pulmões, a doença pode acometer órgãos como rins, ossos, meninges, etc.
+",tuberculose
+16,Hemófilos Influenzae tipo B,"","Haemophilus influenzae tipo b (Hib) é uma bactéria que atinge principalmente crianças até cinco anos, causando infecções que começam geralmente no nariz e na garganta, mas podem se espalhar para outras partes do corpo, incluindo pele, ouvidos, pulmões, articulações, membranas que revestem o coração, medula espinhal e cérebro. Essa bactéria pode causar diferentes doenças infecciosas com complicações graves, como pneumonia, inflamação na epiglote, dor de ouvido, infecção generalizada na corrente sanguínea, inflamação do pericárdio, inflamação das articulações e sinusite. Uma das piores doenças causadas pela bactéria Haemophilus influenzae tipo b é a meningite, que geralmente tem um início súbito com febre, dor de cabeça intensa, náuseas, vômitos e rigidez de nuca. Sequelas graves ocorrem de 3% a 5% dos sobreviventes de meningite por Hib como déficit auditivo grave e lesões cerebrais permanentes.",hemofilos-influenzae-tipo-b
+6,Menigite,"","A meningite é um processo inflamatório das meninges, que são membranas que envolvem o cérebro. É uma doença infecciosa aguda que pode ser causada por vírus, bactérias, e fungos. Qualquer pessoa pode ser atingida pela meningite, desde bebês e crianças até adolescentes e adultos.
 
-Sintomas
-
-Tosse por mais de duas semanas, produção de catarro, febre, sudorese, cansaço, dor no peito, falta de apetite e emagrecimento são os principais sintomas da tuberculose. Nos casos mais avançados, pode aparecer escarro com sangue. Pessoas com esses sintomas associados ou isoladamente devem procurar um Posto de Saúde o mais rápido possível, pois o tratamento é gratuito e deve ser iniciado imediatamente.
-
-Diagnóstico
-
-Leva em consideração os sintomas e é confirmado pela radiografia do pulmão e análise do catarro. Ajudam a confirmar o diagnóstico o teste de Mantoux, que consiste na aplicação de tuberculina (extraída da própria bactéria) debaixo da pele, a broncoscopia e a biópsia pulmonar.
-
-Tratamento
-
-O tratamento é feito com três drogas diferentes: pirazinamida, isoniazida e rifamicina. Durante dois meses, o paciente toma os três medicamentos e, a partir do terceiro mês, toma só isoniazida e rifampicina.
-
-O bacilo da tuberculose cresce fora e dentro da célula de defesa. Quando está fora, não só se multiplica muito rápido como adquire resistência também muito depressa. Para impedir seu crescimento e divisão fora da célula se fazem necessárias as três drogas e o tempo mais prolongado de tratamento.
-
-Dentro da célula de defesa, ele cresce mais lentamente e a indicação é usar uma droga que penetra na célula a fim de bloquear o crescimento da bactéria em seu interior. Por isso, os remédios devem ser tomados por seis meses. Já se tentou reduzir para quatro meses, mas a taxa de recidiva foi muito grande.
-
-É fundamental seguir à risca o tratamento. O que se tentou fazer, e com bons resultados, para facilitar a adesão dos pacientes foi prescrever doses mais altas para serem tomadas apenas dois dias na semana.",tuberculose,1
+",menigite
