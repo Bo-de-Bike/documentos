@@ -1,6 +1,10 @@
 
-
-
+'''
+ Script de criação do projeto "VACINOU ?"
+ Equipe : Matheus Lins
+          Jonnatas Matias
+          João Uchôa
+'''
 
 CREATE TABLE vacinas_vacina
 (
@@ -18,8 +22,9 @@ CREATE TABLE vacinas_vacina
 WITH (
   OIDS=FALSE
 );
+
 ALTER TABLE vacinas_vacina
-  OWNER TO postgres;
+OWNER TO postgres;
 
 -- Index: vacinas_vacina_2dbcba41
 
@@ -30,10 +35,13 @@ CREATE INDEX vacinas_vacina_2dbcba41
   USING btree
   (slug COLLATE pg_catalog."default");
 
---------------------------------------------------------------------------------------------------------	
-	-- Table: vacinas_idade_id_vacina
+-- Table: vacinas_idade_id_vacina;
 
 -- DROP TABLE vacinas_idade_id_vacina;
+
+'''
+  Essa é a taabela que relaciona a tabela vacina com a tabela idade - Aqui a relação é M-N
+'''
 
 CREATE TABLE vacinas_idade_id_vacina
 (
@@ -49,37 +57,7 @@ CREATE TABLE vacinas_idade_id_vacina
       ON UPDATE NO ACTION ON DELETE NO ACTION DEFERRABLE INITIALLY DEFERRED,
   CONSTRAINT vacinas_idade_id_vacina_idade_id_vacina_id_key UNIQUE (idade_id, vacina_id)
 )
-WITH (
-  OIDS=FALSE
-);
-ALTER TABLE vacinas_idade_id_vacina
-  OWNER TO postgres;
 
--- Index: vacinas_idade_id_vacina_078f5c36
-
--- DROP INDEX vacinas_idade_id_vacina_078f5c36;
-
-CREATE INDEX vacinas_idade_id_vacina_078f5c36
-  ON vacinas_idade_id_vacina
-  USING btree
-  (vacina_id);
-
--- Index: vacinas_idade_id_vacina_6dde0f41
-
--- DROP INDEX vacinas_idade_id_vacina_6dde0f41;
-
-CREATE INDEX vacinas_idade_id_vacina_6dde0f41
-  ON vacinas_idade_id_vacina
-  USING btree
-  (idade_id);
-
-
-
----------------------------------------------------------------------------------------------------------
-
--- Table: vacinas_idade
-
--- DROP TABLE vacinas_idade;
 
 CREATE TABLE vacinas_idade
 (
@@ -93,11 +71,9 @@ WITH (
 ALTER TABLE vacinas_idade
   OWNER TO postgres;
 
-------------------------------------------------------------------------------------------------------
-
--- Table: doencas_doenca_id_vacina
-
--- DROP TABLE doencas_doenca_id_vacina;
+'''
+  Essa é a tabela que relaciona a tabela doencas com a tabela vacina - Aqui a relação é M-N
+'''
 
 CREATE TABLE doencas_doenca_id_vacina
 (
