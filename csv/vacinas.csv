@@ -1,0 +1,125 @@
+id,nome,doenca_protecao,dose,dose_qtd,idade,via_administracao,descricao,slug,image
+1,BCG,Formas graves da Tuberculose,Dose única,0.1 ml ,Ao nascer,ID,"Prevenção
+
+Previne contra formas graves de tuberculose, doença causada pelo Mycrobacterium tuberculosis, que afeta principalmente os pulmões, mas pode também se alojar em outros órgãos.
+
+A transmissão se dá por via aérea, eliminação de aerossóis contaminados. Quem transmite a infecção é o doente portador de lesão pulmonar que se comunica com o meio exterior, possibilitando, por meio de tosse e do espirro, a poluição ambiental.
+
+Fonte: PORTAL EDUCAÇÃO - Cursos Online : Mais de 1000 cursos online com certificado
+http://www.portaleducacao.com.br/enfermagem/artigos/21977/composicao-da-vacina-bcg#ixzz3QcmMMH6R
+",bcg,""
+16,Febre Amarela (1),Febre Amarela,Dose Inicial,0.5 ml,9 meses,SC,"É vacina altamente imunogênica (confere imunidade em 95 a 99% dos vacinados), bem tolerada e raramente associada com eventos adversos graves.
+
+Composição
+
+A vacina contra a febre amarela é constituída de vírus vivos atenuados, derivados da linhagem 17D, cultivados em ovos embrionados de galinha.
+
+No Brasil, utiliza-se a vacina produzida na Fundação Oswaldo Cruz – Bio Manguinhos, que contém, além da linhagem vacinal atenuada, sacarose e glutamato como estabilizadores.
+
+ ",febre-amarela-1,""
+28,Dupla Adulto (dT) (1),Difteria e Tétano,Após completar esquema de 3 doses: fazer reforço a cada 10 anos,"",10 a 19 anos,"","As chamadas vacinas duplas contêm os toxoides diftérico e tetânico, de aplicação intramuscular, sendo apresentada nas formas infantil (DT) e adulta (dT).
+
+A forma infantil (DT) é constituída de 30 UI de toxoide diftérico e dez a 20 UI do toxoide tetânico.
+
+A vacina do tipo adulto (dT) compõe-se de dois a quatro UI de toxoide diftérico e dez a 20 UI de toxoide tetânico. Salienta-se que a vacina dupla infantil (DT) contém a mesma quantidade de toxoides tetânico e diftérico que a vacina tríplice (DTP). Já a dupla tipo adulto (dT) contém menor quantidade de toxoide diftérico.",dupla-adulto-dt-1,""
+24, Febre Amarela  (2),Febre Amarela (1),1 Dose a cada 10 anos,0.5 ml,10 anos,SC,0,febre-amarela-2,
+26,Febre Amarela (3),Febre Amarela,1 Dose a cada 10 anos,"",10 a 19 anos,"",0,febre-amarela-3,
+31,Febre Amarela (4),Febre Amarela,1 Dose a cada 10 anos,"",20 a 59 anos,"",0,febre-amarela-4,
+33,Febre Amarela (5),Febre Amarela,1 Dose a cada 10 anos,"",60 anos e mais,"",0,febre-amarela-5,
+25,Hepatite B (2),Hepatite B,1ª Dose,"",10 a 19 anos,"",0,hepatite-2,
+29,Hepatite B (3),Hepatite B,3 doses (até 49 anos) ,"",20 a 59 anos,"",0,hepatite-3,
+22,Tetra Viral,Sarampo: Caxumba: Rubéola e Varicela,2ª Dose,0.5 ml,15 meses,SC,0,tetra-viral,
+12,Meningocócica C (2),Meningite Meningocócica Tipo C,2ª Dose,0.5 ml,5 meses,IM,0,meningococica-c-2,
+21,Meningocócica C (3),Meningite Meningocócica Tipo C,Reforço,0.5 ml,15 meses,IM,0,meningococica-c-3,
+11,Pneumocócica 10 (2),Doenças causadas pelos pneumococos (Meningite: Pneumonia: Otite: etc.),2ª Dose,0.5 ml,4 meses,IM,0,pneumococica-10-2,
+13,Pneumocócica 10 (3),Doenças causadas pelos pneumococos (Meningite: Pneumonia: Otite: etc.),3ª Dose,0.5 ml,6 meses,IM,0,pneumococica-10-3,
+18,Pneumocócica 10 (4),Doenças causadas pelos pneumococos (Meningite: Pneumonia: Otite: etc.),Reforço,0.5 ml,12 meses,IM,0,pneumococica-10-4,
+35,Pneumocócica 23,Doenças causadas pelos pneumococos (Meningite: Pneumonia: Otite: etc.),Dose única,"",60 anos e mais,"",0,pneumococica23,
+23,Tríplice Bacteriana (DTP) (2),Difteria: Tétano: Coqueluche.,2º Reforço,0.5 ml,4 anos,IM,0,triplice-bacteriana-dtp-2,
+27,Tríplice Viral (SCR) (2),Sarampo: Caxumba e Rubéola,2 doses,"",10 a 19 anos,"",0,triplice-viral-scr-2,
+32,Tríplice Viral (SCR) (3),Sarampo: Caxumba e Rubéola,1 dose (até 49 anos),"",20 a 59 anos,"",0,triplice-viral-scr-3,
+9,Vacina Inativada contra a Poliomielite (VIP) (2),Poliomielite ou Parasilia Infantil,2ª Dose,0.5 ml,4 meses,IM,0,vacina-inativada-contra-a-poliomielite-vip-2,
+14,Vacina Oral contra Poliomielite (VOP),Poliomielite ou Parasilia Infantil,3ª Dose,02 gotas,6 meses,Oral,0,vacina-oral-contra-poliomielite-vop,
+2,Hepatite B (1),Hepatite B,1ª Dose,0.5 ml,Ao nascer,IM,"Composição
+
+Contém o antígeno de superfície do vírus da hepatite B (HBsAG) purificado, modernamente obtido por engenharia genética, tendo o hidróxido de alumínio como adjuvante e timerosal como preservativo.",hepatite-1,""
+10,Vacina Oral Rotavírus Humano (VORH) (2),Gastroenterite causada pelo Rotavírus,2ª Dose,1.5 ml,4 meses,Oral,0,vacina-oral-rotavirus-humano-vorh-2,
+8,Vacina Pentavalente   (DTP + Hib +  HB) (2),Difteria: Tétano: Coqueluche e Doenças Causadas pelo Hemófilos Influenzae tipo B (Meningite: Pneumonia) e Hepatite B,2ª Dose,0.5 ml,4 meses,IM,0,vacina-pentavalente-dtp-hib-hb-2,
+15,Vacina Pentavalente   (DTP + Hib + HB) (3),Difteria: Tétano: Coqueluche e Doenças Causadas pelo Hemófilos Influenzae tipo B (Meningite: Pneumonia) e Hepatite B,3ª Dose,0.5 ml,6 meses,IM,0,vacina-pentavalente-dtp-hib-hb-3,
+30,Dupla Adulto (dT) (2),Difteria e Tétano,Após completar esquema de 3 doses: fazer reforço a cada 10 anos,"",20 a 59 anos,"",0,dupla-dt-2,""
+20,Poliomielite (oral),Poliomielite ou Parasilia Infantil,Reforço,02 gotas,15 meses,Oral,"COMPOSIÇÃO E APRESENTAÇÃO
+Contém por dose:
+Pólio vírus 1 – 1.000.000 DICT 50
+Pólioi virus 2 _ 100.000 DICT 50
+Pólio vírus 3 _ 600.000 DICT 50
+
+VIA DE ADMINISTRAÇÃO
+ORAL 2 gotas =1 dose
+
+IDADE RECOMENDADA
+Na rotina: a partir dos dois meses de idade
+Nas campanhas: desde o nascimento até menos de 5 anos.
+
+ESQUEMA VACINAL
+1ª, 2ª e 3ª dose: aos 2, 4 e 6 meses de idade. Reforço – 6 a 12 meses depois.",poliomielite-oral,""
+4,Vacina Inativada contra a Poliomielite (VIP) (1),Poliomielite ou Parasilia Infantil,1ª Dose,0.5 ml,2 meses,IM,"Vírus vivos atenuados (Poliovírus tipo 1, tipo2 e tipo3)
+
+COMPOSIÇÃO E APRESENTAÇÃO
+Contém por dose:
+Pólio vírus 1 – 1.000.000 DICT 50
+Pólioi virus 2 _ 100.000 DICT 50
+Pólio vírus 3 _ 600.000 DICT 50
+
+VIA DE ADMINISTRAÇÃO
+ORAL 2 gotas =1 dose",vacina-inativada-contra-a-poliomielite-vip-1,""
+34,Influenza Sazonal,Influenza (Gripe),Dose anual,"",60 anos e mais,"","As vacinas influenza trivalentes, que começarão a ser utilizadas no Brasil a partir de fevereiro de 2014 deverão conter, obrigatoriamente, três tipos de cepas de vírus em combinação: um vírus similar ao vírus influenza A/California/7/2009 (H1N1)pdm09, um vírus similar ao vírus influenza A/Texas/50/2012 (H3N2) e um vírus similar ao vírus influenza B/Massachusetts/2/2012.",influenza-sazonal,""
+7,Meningocócica C (1),Meningite Meningocócica Tipo C ,1ª Dose,0.5 ml,3 meses,IM,"    Vacina Meningicócica C Conjugada: duas doses, o mais precocemente possível a partir de 2 meses de idade, com intervalo de 2 meses entre as doses e um reforço entre 15 e 18 meses. Se infelizmente a criança não pode ser vacinada no primeiro ano de vida, é indicada apenas uma dose, depois de completado um ano de vida. Um segundo reforço está recomendado aos 10/11 anos de idade, preferencialmente com a vacina meningocócica conjugada ACWY. Caberá ao médico, ainda, avaliar dose adicional 5 anos após a última dose, em situações de risco, principalmente para crianças vacinadas no primeiro ano de vida;
+    Vacina Meningocócica conjugada ACWY: Dose única aos 5 e 11 anos. Para adolescentes: duas doses com intervalo de 5 anos. Para adultos: dose única. Outras doses de reforço poderão ser recomendadas a critério médico, a partir da análise de risco (epidemias, surtos etc.);
+
+",meningococica-c-1,""
+6,Pneumocócica 10 (1),Doenças causadas pelos pneumococos (Meningite: Pneumonia: Otite: etc.),1ª Dose,0.5 ml,2 meses,IM,"Constituição: polissacárides de 23 sorotipos de pneumococos- 1,2, 3, 4, 5, 6B, 7F , 8, 9N, 9V, 10A, 11A, 12F , 14, 15B, 17F , 18C , 19F , 19A, 20, 22F , 23F , 33F .
+•  Época de administração: a partir dos dois anos de idade.
+•  Via de aplicação: intramuscular, utilizando-se o músculo deltóide.
+•  Esquema vacinal: dose única. A revacinação não é rotina, entretanto existem exceções conforme demonstrado no quadro",pneumococica-10-1,""
+19,Tríplice Bacteriana (DTP) (1),Difteria: Tétano: Coqueluche.,1º Reforço,0.5 ml,15 meses,IM,"A vacina tríplice bacteriana (DTP) é obrigatória e contém toxoide diftérico, toxoide tetânico e Bordetella pertussis inativada em suspensão, tendo como adjuvante hidróxido ou fosfato de alumínio, sendo apresentada sob a forma liquida em ampola ou frasco ampola com dose única, ou frasco-ampola com múltiplas doses. Há a versão acelular da tríplice bacteriana, a DTPa (vacina para difteria, tétano e pertussis acelular), disponível apenas na rede privada. ",triplice-bacteriana-DTP-1,""
+17,Tríplice Viral (SCR) (1),"Sarampo, Caxumba e Rubéola",1ª Dose,0.5 ml,12 meses,SC,"Composição
+
+Entre as diversas vacinas tríplices virais, três são as combinações examinadas a seguir:
+
+I-Vacina liofilizada com os seguintes componentes:
+
+·        Vírus atenuado do sarampo, cepa Schwarz, cultivado em ovos embrionados de galinha, com, pelo menos 1.000 TCID 50 por dose.
+
+·        Vírus atenuado da caxumba, cepa Urabe AM9, cultivado em ovos embrionados de galinha com, no mínimo 5.000 TCID50 por dose.
+
+·        Vírus atenuado da rubéola, cepa Wistar RA 27/3, cultivado em células diplóides humanas, com o mínimo de 1.000 TCID 50 por dose.
+
+·        A vacina contém ainda traços de neomicina e kanamicina, além de gelatina hidrolisada com estabilizador e vermelho fenol.
+II–Vacina liofilizada contendo:
+
+·        Vírus atenuado do sarampo, cepa Moraten, cultivado em células de embrião de galinha, na dose mínima de 1.000 TCID50.
+
+·        Vírus atenuado da caxumba, cepa Jeryl Lynn, também cultivado de embrião de galinha na dose mínima de 5.000 TCID50.
+
+·        Vírus atenuado da rubéola, cepa Wistar RA 27/3 com, pelo menos, 1.000 TCID50.
+
+A vacina contém ainda gelatina hidrolisada e sorbitol como estabilizadores e neomicina.
+
+ ",triplice-viral-scr-1,""
+5,Vacina Oral Rotavírus Humano (VORH) (1),Gastroenterite causada pelo Rotavírus,1ª Dose,1.5 ml,2 meses,Oral,"Composição
+
+É uma vacina oral, atenuada, monovalente (G1P1A[8]), cepa RIX4414 (Rotarix®, GlaxoSmithKline Biologicals). Cada dose da vacina oral contra rotavírus contém:
+
+    Frasco com pó liofilizado:
+
+    - no mínimo 106,0 CCID50 da cepa vacinal
+
+    - sacarose 9mg, dextrana 18 mg, sorbitol 13,5 mg, aminoácidos 9 mg e meio Eagle modificado por Dulbecco (DMEM) 3,7mg
+
+    Aplicador com diluente:
+
+    - carbonato de cálcio 80 mg, goma de xantana 3,5mg, água para injeção 1,3 ml
+
+Após a reconstituição cada dose corresponde a 1 ml.
+",vacina-oral-rotavirus-humano-vorh-1,""
+3,Vacina Pentavalente   (DTP + Hib + HB) (1),Difteria : Tétano : Coqueluche e Doenças Causadas pelo Hemófilos Influenzae tipo B (Meningite: Pneumonia) e Hepatite B,1ª Dose,0.5 ml,2 meses,IM,"A vacina Pentavalente é uma vacina combinada do tipo injetável. Ela é uma união da vacina Tetravalente com a vacina Hepatite B, ou seja, a partir de agora ao invés de duas aplicações será necessário apenas uma injeção para que se imunize a criança contra as cinco doenças cobertas pela vacina.",vacina-pentavalente-dtp-hib-hb-1,""
